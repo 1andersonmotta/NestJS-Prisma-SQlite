@@ -29,7 +29,8 @@ com Body em JSON: {"name":"nome do usuário","function":"sua função aqui"}.
 3. Consulte um usuário específico pelo id no parâmetro com o método GET: `http://localhost:3000/app/:id`  
 4. Atualize as Informações pelo id com novo body com método PUT: `http://localhost:3000/app/update/:id`  
 com Body em JSON: {"name":"novo nome do usuário","function":"nova função aqui"}. 
-5. Delete seus usuários pelo id com método DELETE: `http://localhost:3000/app/delete/:id`
+5. Delete seus usuários pelo id com método DELETE: `http://localhost:3000/app/delete/:id`  
+6. Para acessar diretamente o banco utilize o comando: $ npx prisma studio
 
 [Insomnia](https://insomnia.rest/download)
 
