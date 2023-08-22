@@ -13,10 +13,10 @@ Para teste local utilize Insomnia ou Postman
 
 ## Uso
 Clone o Projeto no GitHub:
-https://github.com/1andersonmotta/siteSS.git 
+https://github.com/1andersonmotta/NestJS-Prisma-SQlite
 Abra o projeto com Visual Studio Code e execute no terminal o comando:  
 $ yarn install  
-  
+
 depois execute o comando para subir a aplicação  
 $ yarn start:dev
 
